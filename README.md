@@ -1,5 +1,3 @@
-# Hi there 👋
-
 <p align="right">
 
 <img alt="Stars" src="https://img.shields.io/github/stars/SimonStnn?color=eedd00" />
@@ -13,7 +11,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Simon</h1>
-<p align="center">A passionate frontend developer from Belgium</p>
+<h3 align="center">A passionate frontend developer from Belgium</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simonstnn" alt="simonstnn" /></a> </p>
 
