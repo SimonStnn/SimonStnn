@@ -33,24 +33,24 @@
 <h3>Stats</h3>
 <p><picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=simonstnn&show_icons=true&locale=en&layout=compact&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=simonstnn&show_icons=true&locale=en&layout=compact&border_color=transparent&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=simonstnn&show_icons=true&locale=en&layout=compact"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=simonstnn&show_icons=true&locale=en&layout=compact&border_color=transparent"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simonstnn&show_icons=true&locale=en&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simonstnn&show_icons=true&locale=en&layout=compact&border_color=transparent" />
 </picture></p>
 
 <p>&nbsp;<picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=SimonStnn&show_icons=true&hide_rank=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=SimonStnn&show_icons=true&hide_rank=true&border_color=transparent&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=SimonStnn&show_icons=true&hide_rank=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=SimonStnn&show_icons=true&hide_rank=true&border_color=transparent"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SimonStnn&show_icons=true&hide_rank=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SimonStnn&show_icons=true&hide_rank=true&border_color=transparent" />
 </picture></p>
