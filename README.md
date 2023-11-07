@@ -6,7 +6,7 @@
     <img alt="Followers" src="https://img.shields.io/github/followers/SimonStnn" />
 </a>
 
-<img alt="Profile visits" src="https://komarev.com/ghpvc/?username=simonstnn&   label=Profile%20views&color=0e75b6&style=flat" />
+<img alt="Profile visits" src="https://komarev.com/ghpvc/?username=simonstnn" />
 
 </p>
 
