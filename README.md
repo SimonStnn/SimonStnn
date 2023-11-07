@@ -33,4 +33,14 @@
 <h3>Stats</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simonstnn&show_icons=true&locale=en&layout=compact" alt="simonstnn" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simonstnn&show_icons=true&hide_rank=true&locale=en" alt="simonstnn" /></p>
+<p>&nbsp;<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=SimonStnn&show_icons=true&hide_rank=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=SimonStnn&show_icons=true&hide_rank=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SimonStnn&show_icons=true&hide_rank=true" />
+</picture></p>
