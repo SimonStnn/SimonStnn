@@ -36,10 +36,10 @@
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=simonstnn&show_icons=true&locale=en&layout=compact&border_color=30363d"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=simonstnn&show_icons=true&locale=en&layout=compact&border_color=d0d7de"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simonstnn&show_icons=true&locale=en&layout=compact&border_color=30363d" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simonstnn&show_icons=true&locale=en&layout=compact&border_color=d0d7de" />
 </picture></p>
 
 <p>&nbsp;<picture>
@@ -48,10 +48,10 @@
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=SimonStnn&show_icons=true&hide_rank=true&border_color=30363d"
+    srcset="https://github-readme-stats.vercel.app/api?username=SimonStnn&show_icons=true&hide_rank=true&border_color=d0d7de"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SimonStnn&show_icons=true&hide_rank=true&border_color=30363d" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SimonStnn&show_icons=true&hide_rank=true&border_color=d0d7de" />
 </picture></p>
 
 <!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ helped me generate my readme -->
