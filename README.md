@@ -53,3 +53,5 @@
   />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SimonStnn&show_icons=true&hide_rank=true&border_color=transparent" />
 </picture></p>
+
+<!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ helped me generate my readme -->
