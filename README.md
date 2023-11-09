@@ -1,18 +1,21 @@
 <p align="right">
 
+<a target="_blank" href="https://github.com/SimonStnn">
 <img alt="Stars" src="https://img.shields.io/github/stars/SimonStnn?color=eedd00" />
+</a>
 
 <a target="_blank" href="https://github.com/SimonStnn?tab=followers">
     <img alt="Followers" src="https://img.shields.io/github/followers/SimonStnn" />
 </a>
 
+<a target="_blank" href="https://github.com/SimonStnn">
 <img alt="Profile visits" src="https://komarev.com/ghpvc/?username=simonstnn" />
+</a>
 
 </p>
 
 <h1 align="center">Hi 👋, I'm Simon</h1>
 <h3 align="center">A passionate developer from Belgium</h3>
-
 
 - 🔭 I’m currently working on [my website](https://github.com/SimonStnn/website)
 
