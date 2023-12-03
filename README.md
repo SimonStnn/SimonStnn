@@ -46,19 +46,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=SimonStnn&show_icons=true&hide_rank=true&border_color=d0d7de" />
 </picture></p>
 
-<!-- Generated from https://github.com/anuraghazra/github-readme-stats/ -->
-<p><picture>
-    <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=simonstnn&show_icons=true&locale=en&layout=compact&border_color=30363d&bg_color=0d1117&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=simonstnn&show_icons=true&locale=en&layout=compact&border_color=d0d7de"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simonstnn&show_icons=true&locale=en&layout=compact&border_color=d0d7de" />
-</picture></p>
-
 <!-- Generated from https://github-readme-streak-stats.herokuapp.com/demo/ -->
 <p><picture>
 <source
@@ -70,6 +57,19 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=simonstnn&theme=light&stroke=d0d7de&border=d0d7de" alt="GitHub Streak" />
+</picture></p>
+
+<!-- Generated from https://github.com/anuraghazra/github-readme-stats/ -->
+<p><picture>
+    <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=simonstnn&show_icons=true&locale=en&layout=compact&border_color=30363d&bg_color=0d1117&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=simonstnn&show_icons=true&locale=en&layout=compact&border_color=d0d7de"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simonstnn&show_icons=true&locale=en&layout=compact&border_color=d0d7de" />
 </picture></p>
 
 <!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ helped me generate my readme -->
