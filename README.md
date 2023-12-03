@@ -35,7 +35,7 @@
 <h3>Statistics</h3>
 <p><picture>
 <source
-    srcset="https://github-readme-stats.vercel.app/api?username=SimonStnn&show_icons=true&hide_rank=true&border_color=30363d&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=SimonStnn&show_icons=true&hide_rank=true&border_color=30363d&bg_color=0d1117&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -47,7 +47,7 @@
 
 <p><picture>
     <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=simonstnn&show_icons=true&locale=en&layout=compact&border_color=30363d&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=simonstnn&show_icons=true&locale=en&layout=compact&border_color=30363d&bg_color=0d1117&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
