@@ -43,7 +43,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=SimonStnn&show_icons=true&hide_rank=true&border_color=d0d7de"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=SimonStnn&show_icons=true&hide_rank=true&border_color=d0d7de" />
+  <img align="left" alt="Github statistics" src="https://github-readme-stats.vercel.app/api?username=SimonStnn&show_icons=true&hide_rank=true&border_color=d0d7de" />
 </picture></p>
 
 <!-- Generated from https://github-readme-streak-stats.herokuapp.com/demo/ -->
@@ -56,7 +56,7 @@
     srcset="https://github-readme-streak-stats.herokuapp.com?user=simonstnn&theme=light&stroke=d0d7de&border=d0d7de"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=simonstnn&theme=light&stroke=d0d7de&border=d0d7de" alt="GitHub Streak" />
+<img alt="Contribution streak" src="https://github-readme-streak-stats.herokuapp.com?user=simonstnn&theme=light&stroke=d0d7de&border=d0d7de"/>
 </picture></p>
 
 <!-- Generated from https://github.com/anuraghazra/github-readme-stats/ -->
@@ -69,7 +69,7 @@
     srcset="https://github-readme-stats.vercel.app/api/top-langs?username=simonstnn&show_icons=true&locale=en&layout=compact&border_color=d0d7de"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simonstnn&show_icons=true&locale=en&layout=compact&border_color=d0d7de" />
+  <img align="left" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=simonstnn&show_icons=true&locale=en&layout=compact&border_color=d0d7de" />
 </picture></p>
 
 <!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ helped me generate my readme -->
