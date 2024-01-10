@@ -12,6 +12,8 @@
 <img alt="Profile visits" src="https://komarev.com/ghpvc/?username=simonstnn" />
 </a>
 
+<img alt="" src="https://hit.yhype.me/github/profile?user_id=113850648" />
+
 </p>
 
 <h1 align="center">Hi 👋, I'm Simon</h1>
