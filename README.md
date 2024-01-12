@@ -9,7 +9,7 @@
 </a>
 
 <a target="_blank" href="https://github.com/SimonStnn">
-<img alt="Profile visits" src="https://komarev.com/ghpvc/?username=simonstnn" />
+<img alt="Profile visits" src="https://komarev.com/ghpvc/?username=simonstnn&style=flat" />
 </a>
 
 <img alt="" src="https://hit.yhype.me/github/profile?user_id=113850648" />
