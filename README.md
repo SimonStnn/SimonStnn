@@ -19,7 +19,7 @@
 <h1 align="center">Hi 👋, I'm Simon</h1>
 <h3 align="center">A passionate developer from Belgium</h3>
 
-- 🔭 I’m currently working on my exams
+- 🔭 I’m currently working on [**pop-a-loon**](https://github.com/SimonStnn/pop-a-loon)
 
 - 🌱 I’m currently learning **Next.js and React**
 
