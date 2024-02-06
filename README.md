@@ -1,13 +1,11 @@
 <p align="right">
 
 <a target="_blank" href="https://github.com/SimonStnn">
-<img alt="Stars" src="https://img.shields.io/github/stars/SimonStnn?color=eedd00" />
+<img alt="Stars" src="https://img.shields.io/github/stars/SimonStnn?style=flat&logo=github" />
 </a>
-
 <a target="_blank" href="https://github.com/SimonStnn?tab=followers">
-    <img alt="Followers" src="https://img.shields.io/github/followers/SimonStnn" />
+    <img alt="Followers" src="https://img.shields.io/github/followers/SimonStnn?style=flat&logo=github" />
 </a>
-
 <a target="_blank" href="https://github.com/SimonStnn">
 <img alt="Profile visits" src="https://komarev.com/ghpvc/?username=simonstnn&style=flat" />
 </a>
