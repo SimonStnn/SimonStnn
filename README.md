@@ -23,7 +23,7 @@
 
 - 💬 Ask me about **Python**
 
-- ⚡ Fun fact **Best of my class**
+- ⚡ Fun fact **Full stack developer**
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
