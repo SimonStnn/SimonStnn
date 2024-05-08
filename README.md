@@ -17,7 +17,7 @@
 <h1 align="center">Hi 👋, I'm Simon</h1>
 <h3 align="center">A passionate developer from Belgium</h3>
 
-- 🔭 I’m currently working on **[Interactive Corridor](https://github.com/vives-project-xp/InteractiveCorridor)**
+- 🔭 I’m currently working on **[Interactive Corridor](https://github.com/vives-project-xp/InteractiveCorridor)** and **[Pop-a-loon](https://github.com/SimonStnn/pop-a-loon)**
 
 - 🌱 I’m currently learning **Next.js and React**
 
