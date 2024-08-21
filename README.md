@@ -102,14 +102,14 @@
 <!-- Generated from https://github.com/anuraghazra/github-readme-stats/ -->
 <p><picture>
 <source
-    srcset="https://github-readme-stats.vercel.app/api?username=SimonStnn&show_icons=true&hide_rank=true&border_color=30363d&bg_color=0d1117&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=SimonStnn&show_icons=true&border_color=30363d&bg_color=0d1117&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=SimonStnn&show_icons=true&hide_rank=true&border_color=d0d7de"
+    srcset="https://github-readme-stats.vercel.app/api?username=SimonStnn&show_icons=true&border_color=d0d7de"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img align="left" alt="Github statistics" src="https://github-readme-stats.vercel.app/api?username=SimonStnn&show_icons=true&hide_rank=true&border_color=d0d7de" />
+  <img align="left" alt="Github statistics" src="https://github-readme-stats.vercel.app/api?username=SimonStnn&show_icons=true&border_color=d0d7de" />
 </picture></p>
 
 <!-- Generated from https://github.com/anuraghazra/github-readme-stats/ -->
