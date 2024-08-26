@@ -124,7 +124,7 @@
   />
   <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=simonstnn&show_icons=true&locale=en&layout=compact&border_color=d0d7de" />
 </picture></p>
-
+<br/>
 <!-- Generated from https://github-readme-streak-stats.herokuapp.com/demo/ -->
 <p><picture>
 <source
